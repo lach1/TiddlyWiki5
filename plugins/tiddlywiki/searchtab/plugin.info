@@ -1,6 +1,0 @@
-{
-	"title": "$:/plugins/tiddlywiki/searchtab",
-	"description": "Search in separate tab",
-	"author": "Hermann Lacheiner",
-	"core-version": ">=5.0.0"
-}
